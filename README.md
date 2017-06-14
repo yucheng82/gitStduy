@@ -1,1 +1,1 @@
-"# gitStduy" 
+This Is Read Me!
