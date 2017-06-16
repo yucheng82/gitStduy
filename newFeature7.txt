@@ -1,2 +1,3 @@
 Modify in Feature7
 Fixed in release-1.0
+Fixed BugA
